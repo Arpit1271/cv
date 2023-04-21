@@ -1,0 +1,124 @@
+body {
+    background: none;
+    margin: 0;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 6rem;
+    font-family: 'Cookie', cursive;
+    color: #66bfbf;
+    line-height: 0;
+}
+
+p {
+    font-family: 'Comic Neue', cursive;
+}
+
+.Top-Container {
+    background-color: #EAF6F6;
+    padding: 100px;
+
+}
+
+hr {
+    width: 5%;
+    height: 4px;
+    border: dotted #EAF6F6;
+    border-width: 0;
+    border-top-width: 7px;
+}
+
+.top {
+    position: absolute;
+    right: 370px;
+    top: 80px;
+}
+
+.bottom {
+    position: relative;
+    bottom: 300px;
+    left: 110px;
+}
+
+#a {
+    font-family: comic sans MS;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #66bfbf;
+}
+
+.hello-img {
+    width: 15%;
+}
+
+.skill-row {
+    width: 50%;
+    position: relative;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.sports-img {
+    width: 25%;
+    float: left;
+    padding: 30px;
+
+}
+
+.web-dev-img {
+    width: 25%;
+    float: left;
+    padding: 30px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #66bfbf;
+}
+
+p {
+    color: #40514E;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.pan {
+    padding-bottom: 100px;
+}
+
+.btn {
+    background-color: #66bfbf;
+    border-width: 4px;
+    border-radius: 55px;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color:#405b5b ;
+}
+
+.bottom-container {
+    margin-top: 100px;
+    padding: 50px;
+    background-color: #66bfbf;
+
+}
+
+.footer-link {
+    padding: 30px;
+    color: #11999E;
+}
+
+.get {
+    padding-top: 15px;
+    color: #eaf6f6;
+}
